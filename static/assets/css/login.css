@@ -1,0 +1,19 @@
+div.box--wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+div.box {
+    position: fixed;
+    width: 50%;
+    height: 45%;
+    background-color: #FFFF;
+    box-shadow: 1px 1px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

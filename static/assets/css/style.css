@@ -1,0 +1,30 @@
+div.row {
+    margin-top: 2vh;
+}
+
+div.col-sm-6 {
+    margin-top: 1vh;
+}
+
+div.card-imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img.card-img-top {
+    max-width: 100%;
+    width: 15vw;
+}
+
+span.badge {
+    margin-right: 0.5vw;
+}
+
+btn#upload {
+    float: right;
+}
+
+div.toast {
+    margin-top: 1vh;
+}
